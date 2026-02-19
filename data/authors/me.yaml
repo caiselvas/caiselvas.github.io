@@ -25,7 +25,7 @@ bio: |
 affiliations:
   - name: Computer Vision Center (CVC)
     url: https://www.cvc.uab.es/
-  - name: Polytechnic University of Catalonia (UPC)
+  - name: Universitat Politècnica de Catalunya (UPC)
     url: https://www.upc.edu/en
 
 
@@ -62,7 +62,7 @@ education:
       Advanced graduate-level coursework in Computer Vision (3D/4D, Detection, Segmentation, Tracking), Deep Learning, and Machine Learning for Business Analytics
 
   - degree: Bachelor of Science in Artificial Intelligence
-    institution: Polytechnic University of Catalonia (UPC)
+    institution: Universitat Politècnica de Catalunya (UPC)
     start: September 2022
     # end: 2026-06
     summary: |
